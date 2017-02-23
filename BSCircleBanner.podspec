@@ -14,6 +14,6 @@ Pod::Spec.new do |s|
   s.source_files = "BSCircleBanner/**/*.{h,m}"
   s.public_header_files = "BSCircleBanner/BSCircleBanner.h", "BSCircleBanner/BSSingleBannerCVCell.h"
 
-  s.dependency "Masonry", "~>0.6.2"
+  s.dependency "Masonry", "~>1.0.2"
 
 end
